@@ -1,6 +1,6 @@
 # Aprendiendo a Programar en Java
-## Unidad 1 - Fundamentos de Java
-### Clase 2 - Variables, tipos de datos y operadores
+## Unidad 01 - Fundamentos de Java
+### Clase 02 - Variables, tipos de datos y operadores
 - [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
   - Definición de variables
     - Identificadores (nombres)

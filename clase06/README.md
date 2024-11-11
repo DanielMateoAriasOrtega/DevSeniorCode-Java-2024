@@ -1,6 +1,6 @@
 # Aprendiendo a Programar en Java
-## Unidad 1 - Fundamentos de Java
-### Clase 6 - Conceptos básicos de programación funcional
+## Unidad 01 - Fundamentos de Java
+### Clase 06 - Conceptos básicos de programación funcional
 - [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
   - Programación funcional
   - Expresión lambda

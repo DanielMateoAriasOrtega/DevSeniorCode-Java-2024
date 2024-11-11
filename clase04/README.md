@@ -1,6 +1,6 @@
 # Aprendiendo a Programar en Java
-## Unidad 1 - Fundamentos de Java
-### Clase 4 - Métodos y modularidad
+## Unidad 01 - Fundamentos de Java
+### Clase 04 - Métodos y modularidad
 - [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
   - Métodos y Modularidad en Java
   - Paquetes en Java

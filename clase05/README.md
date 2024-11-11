@@ -1,6 +1,6 @@
 # Aprendiendo a Programar en Java
-## Unidad 1 - Fundamentos de Java
-### Clase 5 - Introducción a arrays y estructuras de datos básicas.
+## Unidad 01 - Fundamentos de Java
+### Clase 05 - Introducción a arrays y estructuras de datos básicas.
 - [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
   - Estructuras de datos
   - Arrays

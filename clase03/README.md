@@ -1,6 +1,6 @@
 # Aprendiendo a Programar en Java
-## Unidad 1 - Fundamentos de Java
-### Clase 3 - Estructuras de control de flujo
+## Unidad 01 - Fundamentos de Java
+### Clase 03 - Estructuras de control de flujo
 - [Lógica computacional](logica_computacional.ipynb)
   - Proposiciones simples y complejas
   - Operaciones lógicas
