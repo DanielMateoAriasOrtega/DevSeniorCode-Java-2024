@@ -56,3 +56,6 @@
 - [Tres en línea](clase07/tres_en_linea.md) (Triqui)
 - [Ahorcado](clase07/ahorcado.md)
 - [Conecta 4](clase07/conecta_4.md)
+### [Clase 08](clase08) - Repaso y mini-proyecto básico de Java.
+- [Repaso](clase08/conceptos_lenguaje.ipynb)
+- [Mini-proyecto](clase08/miniproyecto.md) - Calculadora de Inventario
