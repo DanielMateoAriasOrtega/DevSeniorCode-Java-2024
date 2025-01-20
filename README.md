@@ -59,3 +59,18 @@
 ### [Clase 08](clase08) - Repaso y mini-proyecto básico de Java.
 - [Repaso](clase08/conceptos_lenguaje.ipynb)
 - [Mini-proyecto](clase08/miniproyecto.md) - Calculadora de Inventario
+## Unidad 02 - Programación Orientada a Objetos (POO).
+### clase09 - Introducción a POO - Clases y objetos. _(Pendiente)_
+### clase10 - Encapsulamiento y herencia. _(Pendiente)_
+### clase11 - Polimorfismo e interfaces. _(Pendiente)_
+### clase12 - Patrones de diseño básicos: Singleton y Factory. _(Pendiente)_
+### clase13 - Composición vs. Herencia y mejores prácticas. _(Pendiente)_
+### clase14 - Introducción a patrones de diseño avanzados (Observer, Strategy). _(Pendiente)_
+### clase15 - Clases anónimas, internas y lambda expressions. _(Pendiente)_
+### clase16 - : Proyecto práctico de aplicación de POO. _(Pendiente)_
+## Unidad 03 - Manejo de Excepciones y Depuración.
+### [Clase 17](clase17) - Excepciones y manejo de errores en Java.
+- [Conceptos del lenguaje](clase17/conceptos_lenguaje.ipynb)
+  - Manejo de errores y excepciones en Java
+  - Ejercicio
+- [Ejercicios de práctica](clase17/ejercicios.md)
