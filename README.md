@@ -12,12 +12,14 @@
   - Mostrar información en pantalla
   - Recibiendo datos del usuario
 - [Ejercicios de práctica](clase01/ejercicios.md)
+
 ### [Clase 02](clase02) - Variables, tipos de datos y operadores
 - [Conceptos del lenguaje](clase02/conceptos_lenguaje.ipynb)
   - Definición de variables
   - Expresiones
   - Ejercicios
 - [Ejercicios de práctica](clase02/ejercicios.md)
+
 ### [Clase 03](clase03) - Estructuras de control de flujo
 - [Lógica computacional](clase03/logica_computacional.ipynb)
 - [Conceptos del lenguaje](clase03/conceptos_lenguaje.ipynb)
@@ -27,6 +29,7 @@
   - Ejercicios
 - [Ejercicios de práctica](clase03/ejercicios.md)
 - [Retos Hackerrank](https://www.hackerrank.com/domains/java?filters%5Bskills%5D%5B%5D=Java%20%28Basic%29&filters%5Bskills%5D%5B%5D=Problem%20Solving%20%28Intermediate%29&filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bsubdomains%5D%5B%5D=java-introduction)
+
 ### [Clase 04](clase04) - Métodos y modularidad
 - [Conceptos del lenguaje](clase04/conceptos_lenguaje.ipynb)
   - Métodos y Modularidad en Java
@@ -36,6 +39,7 @@
   - Clases y métodos importantes en Java
 - [Ejercicios de práctica](clase04/ejercicios.md)
 - [Retos Hackerrank](https://www.hackerrank.com/domains/java?filters%5Bskills%5D%5B%5D=Java%20%28Basic%29&filters%5Bskills%5D%5B%5D=Java%20%28Intermediate%29&filters%5Bsubdomains%5D%5B%5D=java-introduction&filters%5Bsubdomains%5D%5B%5D=java-strings&filters%5Bdifficulty%5D%5B%5D=hard&filters%5Bdifficulty%5D%5B%5D=easy)
+
 ### [Clase 05](clase05) - Introducción a arrays y estructuras de datos básicas
 - [Conceptos del lenguaje](clase05/conceptos_lenguaje.ipynb)
   - Estructuras de datos
@@ -44,6 +48,7 @@
   - Java Collections Framework
 - [Ejercicios de práctica](clase05/ejercicios.md)
 - [Retos Hackerrank](https://www.hackerrank.com/domains/java?filters%5Bskills%5D%5B%5D=Java%20%28Basic%29&filters%5Bskills%5D%5B%5D=Java%20%28Intermediate%29&filters%5Bsubdomains%5D%5B%5D=java-data-structure&filters%5Bdifficulty%5D%5B%5D=easy)
+
 ### [Clase 06](clase06) - Conceptos básicos de programación funcional
 - [Conceptos del lenguaje](clase06/conceptos_lenguaje.ipynb)
   - Programación funcional
@@ -52,13 +57,16 @@
   - Interfaz funcional
   - API de Streams
 - [Ejercicios de práctica](clase06/ejercicios.md)
+
 ### [Clase 07](clase07) - Ejercicio práctico integrador con estructuras de control.
 - [Tres en línea](clase07/tres_en_linea.md) (Triqui)
 - [Ahorcado](clase07/ahorcado.md)
 - [Conecta 4](clase07/conecta_4.md)
+
 ### [Clase 08](clase08) - Repaso y mini-proyecto básico de Java.
 - [Repaso](clase08/conceptos_lenguaje.ipynb)
 - [Mini-proyecto](clase08/miniproyecto.md) - Calculadora de Inventario
+
 ## Unidad 02 - Programación Orientada a Objetos (POO).
 ### clase09 - Introducción a POO - Clases y objetos. _(Pendiente)_
 ### clase10 - Encapsulamiento y herencia. _(Pendiente)_
@@ -67,10 +75,25 @@
 ### clase13 - Composición vs. Herencia y mejores prácticas. _(Pendiente)_
 ### clase14 - Introducción a patrones de diseño avanzados (Observer, Strategy). _(Pendiente)_
 ### clase15 - Clases anónimas, internas y lambda expressions. _(Pendiente)_
-### clase16 - : Proyecto práctico de aplicación de POO. _(Pendiente)_
+### clase16 - Proyecto práctico de aplicación de POO. _(Pendiente)_
+
 ## Unidad 03 - Manejo de Excepciones y Depuración.
 ### [Clase 17](clase17) - Excepciones y manejo de errores en Java.
 - [Conceptos del lenguaje](clase17/conceptos_lenguaje.ipynb)
   - Manejo de errores y excepciones en Java
   - Ejercicio
 - [Ejercicios de práctica](clase17/ejercicios.md)
+
+### [Clase 18](clase18) - Logs y depuración con Log4j y SLF4J.
+- [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
+  - Introducción a los Logs y la Depuración
+  - Log4j
+  - SLF4J (Simple Logging Facade for Java)
+  - Ejemplos de configuraciones de `log4j2.xml`
+
+### clase19 - Técnicas avanzadas de depuración en IDEs (VSCode). _(Pendiente)_
+### clase20 - Gestión avanzada de errores en aplicaciones empresariales. _(Pendiente)_
+### clase21 - Introducción a pruebas unitarias con JUnit y Mockito. _(Pendiente)_
+### clase22 - Depuración y resolución de problemas comunes. _(Pendiente)_
+### clase23 - Taller práctico de manejo de errores y logging. _(Pendiente)_
+### clase24 - Mini-proyecto con enfoque en manejo de excepciones y depuración. _(Pendiente)_
