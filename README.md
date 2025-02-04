@@ -85,15 +85,16 @@
 - [Ejercicios de práctica](clase17/ejercicios.md)
 
 ### [Clase 18](clase18) - Logs y depuración con Log4j y SLF4J.
-- [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
+- [Conceptos del lenguaje](clase18/conceptos_lenguaje.ipynb)
   - Introducción a los Logs y la Depuración
   - Log4j
   - SLF4J (Simple Logging Facade for Java)
   - Ejemplos de configuraciones de `log4j2.xml`
 
-### clase19 - Técnicas avanzadas de depuración en IDEs (VSCode). _(Pendiente)_
-### clase20 - Gestión avanzada de errores en aplicaciones empresariales. _(Pendiente)_
-### clase21 - Introducción a pruebas unitarias con JUnit y Mockito. _(Pendiente)_
+### clase19 - Taller práctico de manejo de errores y logging. _(Pendiente)_
+### clase20 - Técnicas avanzadas de depuración en IDEs. _(Pendiente)_
+### [clase21](clase21) - Introducción a pruebas unitarias con JUnit y Mockito.
+- [Conceptos del lenguaje](clase21/conceptos_lenguaje.ipynb)
 ### clase22 - Depuración y resolución de problemas comunes. _(Pendiente)_
 ### clase23 - Taller práctico de manejo de errores y logging. _(Pendiente)_
 ### clase24 - Mini-proyecto con enfoque en manejo de excepciones y depuración. _(Pendiente)_
