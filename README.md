@@ -94,7 +94,11 @@
 ### clase19 - Taller práctico de manejo de errores y logging. _(Pendiente)_
 ### clase20 - Técnicas avanzadas de depuración en IDEs. _(Pendiente)_
 ### [clase21](clase21) - Introducción a pruebas unitarias con JUnit y Mockito.
-- [Conceptos del lenguaje](clase21/conceptos_lenguaje.ipynb)
-### clase22 - Depuración y resolución de problemas comunes. _(Pendiente)_
-### clase23 - Taller práctico de manejo de errores y logging. _(Pendiente)_
-### clase24 - Mini-proyecto con enfoque en manejo de excepciones y depuración. _(Pendiente)_
+- [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
+  - Pruebas de Software
+  - Ejercicio: Sistema de Gestión de Biblioteca
+  - Recursos adicionales
+
+### clase22 - Taller práctico de pruebas unitarias. _(Pendiente)_
+### clase23 - Mini-proyecto con enfoque en manejo de excepciones y depuración - Parte 1. _(Pendiente)_
+### clase24 - Mini-proyecto con enfoque en manejo de excepciones y depuración - Parte 2. _(Pendiente)_
