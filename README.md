@@ -91,14 +91,35 @@
   - SLF4J (Simple Logging Facade for Java)
   - Ejemplos de configuraciones de `log4j2.xml`
 
-### clase19 - Taller práctico de manejo de errores y logging. _(Pendiente)_
-### clase20 - Técnicas avanzadas de depuración en IDEs. _(Pendiente)_
+### clase19 - Taller práctico de manejo de errores y logging.
+  - Ejercicio: ([demo-debug](https://github.com/cesar-devsenior/demo-debug.git))
+
+### [clase20](clase20) - Técnicas avanzadas de depuración en IDEs. _(Pendiente)_
+
 ### [clase21](clase21) - Introducción a pruebas unitarias con JUnit y Mockito.
-- [Conceptos del lenguaje](conceptos_lenguaje.ipynb)
+- [Conceptos del lenguaje](clase21/conceptos_lenguaje.ipynb)
   - Pruebas de Software
-  - Ejercicio: Sistema de Gestión de Biblioteca
+  - Ejercicio: [Sistema de Gestión de Biblioteca](https://github.com/cesardiaz-utp/library-management.git)
   - Recursos adicionales
 
-### clase22 - Taller práctico de pruebas unitarias. _(Pendiente)_
+### clase22 - Taller práctico de pruebas unitarias.
+  - Ejercicio: [Sistema de Gestión de Biblioteca](https://github.com/cesardiaz-utp/library-management.git)
+
 ### clase23 - Mini-proyecto con enfoque en manejo de excepciones y depuración - Parte 1. _(Pendiente)_
 ### clase24 - Mini-proyecto con enfoque en manejo de excepciones y depuración - Parte 2. _(Pendiente)_
+
+## Unidad 04 - Colecciones y Manipulación de Datos.
+### [clase25](clase25) - Introducción a las colecciones de Java.
+- [Conceptos del lenguaje](clase25/conceptos_lenguaje.ipynb)
+  - Estructuras de datos
+  - Arrays
+  - Clases Generics
+  - Java Collections Framework
+
+### clase26 - Streams API: Introducción y operaciones básicas. _(Pendiente)_
+### clase27 - Streams avanzados y Parallel Streams. _(Pendiente)_
+### clase28 - Uso de Comparator y Comparable para ordenación. _(Pendiente)_
+### clase29 - Operaciones avanzadas con colecciones. _(Pendiente)_
+### clase30 - Uso de colecciones concurrentes. _(Pendiente)_
+### clase31 - Proyecto práctico: Gestión avanzada de datos con colecciones y Streams.. _(Pendiente)_
+### clase32 - Taller práctico de optimización de colecciones. _(Pendiente)_
