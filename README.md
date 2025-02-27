@@ -116,7 +116,18 @@
   - Clases Generics
   - Java Collections Framework
 
-### clase26 - Streams API: Introducción y operaciones básicas. _(Pendiente)_
+### [clase26](clase25) - Introducción a las colecciones de Java.
+- [Conceptos del lenguaje](clase25/conceptos_lenguaje.ipynb)
+  - Java Collections Framework
+
+### [clase27](clase27) - Streams API: Introducción y operaciones básicas.
+- [Conceptos del lenguaje](clase27/conceptos_lenguaje.ipynb)
+  - Expresión lambda
+  - Referencias a métodos
+  - Interfaz funcional
+  - API de Streams
+- [Ejercicios de práctica](clase27/ejercicios.md)
+
 ### clase27 - Streams avanzados y Parallel Streams. _(Pendiente)_
 ### clase28 - Uso de Comparator y Comparable para ordenación. _(Pendiente)_
 ### clase29 - Operaciones avanzadas con colecciones. _(Pendiente)_
