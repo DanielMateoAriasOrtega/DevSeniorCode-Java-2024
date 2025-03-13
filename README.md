@@ -128,7 +128,23 @@
   - API de Streams
 - [Ejercicios de práctica](clase27/ejercicios.md)
 
-### clase27 - Streams avanzados y Parallel Streams. _(Pendiente)_
+### [clase28](clase27) - Streams API: Introducción y operaciones básicas.
+- [Conceptos del lenguaje](clase27/conceptos_lenguaje.ipynb)
+  - Referencias a métodos
+  - Interfaz funcional
+  - API de Streams
+- [Ejercicios de práctica](clase27/ejercicios.md)
+
+### [clase29](clase29) - Streams avanzados y Parallel Streams.
+- [Conceptos del lenguaje](clase29/conceptos_lenguaje.ipynb)
+  - Introducción a Streams Avanzados en Java
+  - Operaciones Avanzadas con Streams
+  - Parallel Streams
+  - Casos de Uso y Buenas Prácticas
+  - Ejercicios Prácticos
+- [Ejercicios de práctica](clase29/ejercicios.md)
+
+
 ### clase28 - Uso de Comparator y Comparable para ordenación. _(Pendiente)_
 ### clase29 - Operaciones avanzadas con colecciones. _(Pendiente)_
 ### clase30 - Uso de colecciones concurrentes. _(Pendiente)_
