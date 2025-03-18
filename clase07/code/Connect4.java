@@ -1,4 +1,4 @@
-package clase07.ejercicios;
+package clase07.code;
 
 import java.util.Scanner;
 

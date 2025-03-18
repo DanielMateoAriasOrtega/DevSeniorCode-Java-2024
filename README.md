@@ -135,18 +135,23 @@
   - API de Streams
 - [Ejercicios de práctica](clase27/ejercicios.md)
 
-### [clase29](clase29) - Streams avanzados y Parallel Streams.
-- [Conceptos del lenguaje](clase29/conceptos_lenguaje.ipynb)
+### clase29 - Proyecto práctico: Gestión avanzada de datos con colecciones y Streams.
+
+### [clase30](clase30) - Streams avanzados y Parallel Streams.
+- [Conceptos del lenguaje](clase30/conceptos_lenguaje.ipynb)
   - Introducción a Streams Avanzados en Java
   - Operaciones Avanzadas con Streams
   - Parallel Streams
   - Casos de Uso y Buenas Prácticas
   - Ejercicios Prácticos
-- [Ejercicios de práctica](clase29/ejercicios.md)
+- [Ejercicios de práctica](clase30/ejercicios.md)
 
+### [clase31](clase31) - Comparadores y colecciones concurrentes.
+- [Conceptos del lenguaje](clase31/conceptos_lenguaje.ipynb)
+  - Uso de `Comparator` y `Comparable` para ordenación
+  - Introducción a la programación concurrente con hilos
+  - Uso de colecciones concurrentes 
+- [Ejercicios de práctica](clase31/ejercicios.md)
 
-### clase28 - Uso de Comparator y Comparable para ordenación. _(Pendiente)_
-### clase29 - Operaciones avanzadas con colecciones. _(Pendiente)_
-### clase30 - Uso de colecciones concurrentes. _(Pendiente)_
-### clase31 - Proyecto práctico: Gestión avanzada de datos con colecciones y Streams.. _(Pendiente)_
-### clase32 - Taller práctico de optimización de colecciones. _(Pendiente)_
+### [clase32](clase32) - Taller práctico de optimización de colecciones.
+- [Ejercicio de clase](clase32/ejercicios.md)

@@ -1,4 +1,4 @@
-package clase08.codigo;
+package clase08.code;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -157,7 +157,7 @@ public class InventoryCalculator {
 
     private static void getTotalValue(List<Map<String, Object>> products) {
         var totalValue = products.stream()
-                .map(p -> (int) p.get("quantity") * (double) p.get("price"))
+                .mapToDouble(p -> (int) p.get("quantity") * (double) p.get("price"))
                 .sum();
         System.out.println("Valor total del inventario: " + totalValue);
     }
