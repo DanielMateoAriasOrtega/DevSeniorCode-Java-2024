@@ -155,3 +155,8 @@
 
 ### [clase32](clase32) - Taller práctico de optimización de colecciones.
 - [Ejercicio de clase](clase32/ejercicios.md)
+
+## Unidad 05 - Bases de Datos Relacionales y NoSQL.
+### [clase33](clase33) - Introducción a bases de datos relacionales y SQL.
+- [Conceptos del lenguaje](clase33/conceptos_lenguaje.ipynb)
+
