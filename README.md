@@ -157,13 +157,23 @@
 - [Ejercicio de clase](clase32/ejercicios.md)
 
 ## Unidad 05 - Bases de Datos Relacionales y NoSQL.
-### [05-01](clase33) - Introducción a bases de datos relacionales y SQL.
+### [05-01](clase33) - Introducción a bases de datos relacionales.
 - [Conceptos del lenguaje](clase33/conceptos_lenguaje.ipynb)
   - Introducción a las bases de datos relacionales
   - Modelado de datos
   - Normalización
 - Presentación: [Modelo Entidad-Relacion](clase33/assets/MODELO_ENTIDAD-RELACION.pdf)
-- [Ejercicios](clase03/ejercicios.md)
+- [Ejercicios](clase33/ejercicios.md)
+
+### 05-02: Modelado de base de datos y traducción en modelo relacional. (_pendiente_)
+- [Ejercicios](clase33/assets/Ejemplos_Modelado_Base_de_Datos.pdf)
+
+### [05-03](clase35): Gestor de base de datos y SQL.
+- [Conceptos del lenguaje](clase35/conceptos_lenguaje.ipynb)
+  - Sistema gestor de base de datos
+  - SQL
+- Presentación: [SQL](clase35/assets/SQL.pdf)
+
 
 ### 05-02: Conexión a bases de datos con JDBC. (_pendiente_)
 ### 05-03: Introducción a JPA e Hibernate. (_pendiente_)
