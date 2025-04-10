@@ -1,2 +1,0 @@
-# Ejercicios
-## Ejercicio 1
