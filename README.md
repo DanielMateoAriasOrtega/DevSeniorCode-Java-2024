@@ -165,28 +165,31 @@
 - Presentación: [Modelo Entidad-Relación](clase33/assets/MODELO_ENTIDAD-RELACION.pdf)
 - [Ejercicios](clase33/ejercicios.md)
 
-### 05-02: Modelado de base de datos y traducción en modelo relacional. (_pendiente_)
+### 05-02 - Modelado de base de datos y traducción en modelo relacional. (_pendiente_)
 - [Ejercicios](clase33/assets/Ejemplos_Modelado_Base_de_Datos.pdf)
 
-### [05-03](clase35): Gestor de base de datos y SQL.
+### [05-03](clase35) - Gestor de base de datos y SQL.
 - [Conceptos del lenguaje](clase35/conceptos_lenguaje.ipynb)
   - Sistema gestor de base de datos
   - SQL
 - Presentación: [SQL](clase35/assets/SQL.pdf)
 
-### [05-04](clase36): Conexión a bases de datos con JDBC.
+### [05-04](clase36) - Conexión a bases de datos con JDBC.
 - [Conceptos del lenguaje](clase36/conceptos_lenguaje.ipynb)
   - Introducción a JDBC
   - Clases principales de JDBC
   - Mejores prácticas
   - Ejemplo
 
-### [05-05](claseXX): Ejercicio práctico usando bases de datos JDBC. (_pendiente_)
-### [05-06](claseXX): Introducción a los ORM y JPA/Hibernate. (_pendiente_)
+### 05-05 - Ejercicio práctico usando bases de datos JDBC.
+
+### [05-06](clase38) - ORMs, JPA e Hibernate.
 - Conceptos del lenguaje
   - Introducción a JPA e Hibernate
   - Relaciones entre entidades (OneToOne, OneToMany, ManyToMany).
   - Consultas JPQL y Criteria API.
   - Optimización y uso de caché con Hibernate.
-### [05-07](claseXX): Introducción a bases de datos MongoDB. (_pendiente_)
-### [05-08](claseXX): Ejercicio práctico usando bases de datos MongoDB. (_pendiente_)
+
+### [05-07](clase39) - Introducción a bases de datos MongoDB. (_pendiente_)
+
+### 05-08)- Ejercicio práctico usando bases de datos MongoDB. (_pendiente_)
