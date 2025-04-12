@@ -185,11 +185,18 @@
 
 ### [05-06](clase38) - ORMs, JPA e Hibernate.
 - Conceptos del lenguaje
-  - Introducción a JPA e Hibernate
-  - Relaciones entre entidades (OneToOne, OneToMany, ManyToMany).
-  - Consultas JPQL y Criteria API.
-  - Optimización y uso de caché con Hibernate.
+  - Introducción a ORM
+  - Incluyendo JPA en un Proyecto Java 21
+  - Mapeo de Entidades y Relaciones
+  - Consultas JPQL y Criteria API
+  - Optimización y Uso de Caché con Hibernate
 
-### [05-07](clase39) - Introducción a bases de datos MongoDB. (_pendiente_)
+### [05-07](clase39) - Introducción a bases de datos MongoDB.
+- Conceptos del lenguaje
+  - Introducción a las Bases de Datos NoSQL y MongoDB
+  - Configuración del Entorno de Desarrollo
+  - Conceptos Fundamentales de MongoDB
+  - Operaciones CRUD con Java
+  - Ejercicios
 
-### 05-08)- Ejercicio práctico usando bases de datos MongoDB. (_pendiente_)
+### 05-08- Ejercicio práctico usando bases de datos MongoDB. (_pendiente_)
